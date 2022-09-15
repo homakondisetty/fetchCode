@@ -1,7 +1,7 @@
 /*
   Abstract class: Cannot create an instance all we can do is inheritance
   Map data structure:
-    - Object 
+    - Object
 	  - Holds key-value pairs 
 	  - Remembers insertion order
  	  - Both primitive () and object types can be used as either a key or a value 
