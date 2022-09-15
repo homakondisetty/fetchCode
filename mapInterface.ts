@@ -1,14 +1,14 @@
 /*
   Abstract class: Cannot create an instance all we can do is inheritance
   Map data structure:
-    - Object 
-	  - Holds key-value pairs 
+    - Object
+	  - Holds key-value pairs
 	  - Remembers insertion order
- 	  - Both primitive () and object types can be used as either a key or a value 
-	  - Key is unique, which can occur only once 
+ 	  - Both primitive () and object types can be used as either a key or a value
+	  - Key is unique, which can occur only once
 
     Advantages over an JSObject: 
-      - Can be directly iterated using for…of  Vs need to use 
+      - Can be directly iterated using for…of  Vs need to use
       - Length of map using size Vs need Object.keys().length
       - Remembers insertion order Vs Object sorts the properties 
       - More performance while frequent adding/removing of key-value pairs Vs less 
