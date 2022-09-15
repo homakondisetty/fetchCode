@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1663198742702" clover="3.2.0">
+  <project timestamp="1663198742703" name="All files">
+    <metrics statements="57" coveredstatements="57" conditionals="8" coveredconditionals="8" methods="24" coveredmethods="24" elements="89" coveredelements="89" complexity="0" loc="57" ncloc="57" packages="1" files="4" classes="4"/>
+    <file name="classes.ts" path="/Users/homakk/Documents/fetchCode/classes.ts">
+      <metrics statements="19" coveredstatements="19" conditionals="2" coveredconditionals="2" methods="7" coveredmethods="7"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="5" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="3" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="22" count="3" type="stmt"/>
+      <line num="23" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="27" count="3" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="31" count="2" type="stmt"/>
+      <line num="32" count="2" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
+    </file>
+    <file name="hello.ts" path="/Users/homakk/Documents/fetchCode/hello.ts">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+    </file>
+    <file name="mapInterface.ts" path="/Users/homakk/Documents/fetchCode/mapInterface.ts">
+      <metrics statements="21" coveredstatements="21" conditionals="2" coveredconditionals="2" methods="8" coveredmethods="8"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="20" count="5" type="stmt"/>
+      <line num="22" count="5" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="25" count="7" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="29" count="3" type="stmt"/>
+      <line num="30" count="3" type="cond" truecount="1" falsecount="0"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="35" count="1" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="37" count="2" type="stmt"/>
+      <line num="38" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="39" count="2" type="stmt"/>
+      <line num="42" count="1" type="stmt"/>
+      <line num="45" count="1" type="stmt"/>
+      <line num="46" count="1" type="stmt"/>
+      <line num="48" count="1" type="stmt"/>
+      <line num="51" count="1" type="stmt"/>
+      <line num="52" count="1" type="stmt"/>
+    </file>
+    <file name="sound-player.ts" path="/Users/homakk/Documents/fetchCode/sound-player.ts">
+      <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="6"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="4" type="cond" truecount="1" falsecount="0"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="9" count="1" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
